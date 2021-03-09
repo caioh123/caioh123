@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caioh123
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React and React-Native
+- 👀 I’m interested in Javascript and Java
+- 🌱 I’m currently learning React, React-Native and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
