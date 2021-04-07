@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caioh123
 - 👀 I’m interested in Javascript and C#
-- 🌱 I’m currently learning React, React-Native and .NET
+- 🌱 I’m currently learning React, React-Native, Node, MongoDB and .NET.
 .
 
 <!---
